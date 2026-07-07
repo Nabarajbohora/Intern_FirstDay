@@ -5,6 +5,7 @@ import java.lang.*;
 import java.util.*;
 
 public class LargestValueFind {
+//    using conditional
 //    static int biggestOfThree(int x, int y, int z){
 //        if(x>= y && x>= z)
 //            return x;
@@ -14,7 +15,7 @@ public class LargestValueFind {
 //            return z;
 //    }
 //    public static  void main(String[]args){
-////        Usiing Ternary Operator.
+//       Usiing Ternary Operator.
 //        int a = 5;
 //        int b = 11000;
 //        int c = 3000;
