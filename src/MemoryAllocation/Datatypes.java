@@ -1,0 +1,26 @@
+package MemoryAllocation;
+
+import java.util.Scanner;
+
+public class Datatypes {
+    String name;
+    int id;
+    double salary;
+    public static void main(String[]args){
+        Scanner sc  = new Scanner(System.in);
+        System.out.println("Enter your name ");
+        String name = sc.next();
+        System.out.println("Enter your id:");
+        int id = sc.nextInt();
+
+        System.out.println("Enter your salary:");
+        double salary = sc.nextDouble();
+         System.out.println("Name ="+name);
+         System.out.println("ID="+id);
+         System.out.println("Salary="+salary);
+
+
+
+    }
+
+}
