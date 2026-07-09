@@ -39,5 +39,4 @@ public class main{
              s3.display();
 
          }
-
 }
